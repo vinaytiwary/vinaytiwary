@@ -7,8 +7,6 @@
 <p  align='right'> ~ You may also know me as <strong>Xmechanical !</strong></p>
 
 ----
-![Snake animation](https://raw.githubusercontent.com/vinaytiwary/vinaytiwary/output/github-snake.svg)
----
 ### 💪 Languages I Code Fluently but Speak with Typos
 ---
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
@@ -50,5 +48,7 @@
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=vinaytiwary&theme=gruvbox" />
   <br clear="left"/>
+---
+![Snake animation](https://raw.githubusercontent.com/vinaytiwary/vinaytiwary/output/github-snake.svg)
 ---
 from <strong>Vinay Tiwary 🖤</strong></p>
