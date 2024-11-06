@@ -7,8 +7,7 @@
 <p  align='right'> ~ You may also know me as <strong>Xmechanical !</strong></p>
 
 ----
-![Snake animation](https://raw.githubusercontent.com/vinaytiwary/vinaytiwary/output/github-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&bg_color=#000000)
-
+![Snake animation](https://raw.githubusercontent.com/vinaytiwary/vinaytiwary/output/github-snake.svg)
 ---
 ### 💪 Languages I Code Fluently but Speak with Typos
 ---
