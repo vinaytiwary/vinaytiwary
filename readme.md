@@ -48,7 +48,7 @@
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=vinaytiwary&theme=gruvbox" />
   <br clear="left"/>
----
+
 ![Snake animation](https://raw.githubusercontent.com/vinaytiwary/vinaytiwary/output/github-snake.svg)
----
+
 from <strong>Vinay Tiwary 🖤</strong></p>
