@@ -50,7 +50,8 @@
   <br clear="left"/>
 
 ---
-![Snake animation](https://raw.githubusercontent.com/vinaytiwary/vinaytiwary/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/vinaytiwary/vinaytiwary/output/github-snake.svg)
+
 
 
 
