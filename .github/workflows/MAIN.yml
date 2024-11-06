@@ -22,9 +22,9 @@ jobs:
         with:
           github_user_name: vinaytiwary
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&bg_color=#2E3B4E  # <-- Set your desired background color here
+            dist/github-snake.svg?bg_color=#000000    # Set the background to black
+            dist/github-snake-dark.svg?palette=github-dark&bg_color=#000000
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&bg_color=#000000
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
