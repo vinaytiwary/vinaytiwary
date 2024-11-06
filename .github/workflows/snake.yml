@@ -15,9 +15,8 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v2.1.0
         with:
-          github_user: vinaytiwary
-          svg_out: github-contribution-grid-snake.svg
-          html_out: github-contribution-grid-snake.html
+          github_user_name: vinaytiwary
+          outputs: github-contribution-grid-snake.svg
       
       - name: Commit and push if there are changes
         run: |
